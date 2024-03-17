@@ -1,0 +1,25 @@
+ Pertama Daftar :  https://gitpod.io/
+- Ambil Trial
+- Continue 10 H
+- Bind Linkedin
+
+2. Login ke Github : https://github.com/
+- Buat Repo > Go to profil > Click your Repositories
+- Create Repositority
+- Copy link git 
+- Contoh : https://github.com/username/ninjahijau
+
+3. Ke Gitpod : https://gitpod.io/
+- Click New Workspace
+- Input Link Git
+- Done Tungguin Sampai buka Terminal  Nanti Muncul Text : 
+What is your project named? my-app ( Ganti Nama Projectmu, Yang Rare ) 
+Would you like to use TypeScript? No / Yes ✔️
+Would you like to use ESLint? No / Yes ✔️
+Would you like to use Tailwind CSS? No / Yes ✔️
+Would you like to use src/ directory? No / Yes ✔️
+Would you like to use App Router? (recommended) No / Yes ✔️
+Would you like to customize the default import alias (@/*)? No / Yes ✔️
+What import alias would you like configured? @/*
+
+- Cara No Ke Yes Click Tanda Panah Kanan di PC / Space di HP
